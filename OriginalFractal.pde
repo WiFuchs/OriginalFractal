@@ -2,6 +2,7 @@ void setup(){
   size(600,600);
   noFill();
   stroke(#66FFCC);
+  strokeWeight(0.5);
 }
 void draw(){
   background(0);
